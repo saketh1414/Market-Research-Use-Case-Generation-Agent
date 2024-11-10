@@ -1,0 +1,7 @@
+crewai
+crewai_tools==0.1.6
+langchain_community==0.0.29
+ipykernel
+load_dotenv
+langchain_google_genai
+langchain-groq

@@ -1,0 +1,8 @@
+•	First create your virtual environment in VS Code.
+•	Install all the packages present in “requirements.txt”.
+•	Now go to the Groq Cloud to copy the api key and paste it in “.env” file.
+•	Also go to the SERPER account to copy the api key and paste it in “.env” file.
+•	By default the company name is given as “Zomato”. You can consider any company you want to generate the report. Just replace the company name in “crew.ipynb” file.
+•	Now run the “crew.ipynb” file to start AI Agents to work and generate the report.(it might take some time.)
+
+follow this link for Demo video: https://drive.google.com/file/d/18fNFlNiGT0S6PbasBRopHWmQ68ISj0Y6/view?usp=sharing
